@@ -289,3 +289,5 @@ This review should list as many manufacturers and technical charasterictis of th
  * Cost: ?
  * Remarks: 
 
+# Other known resources
+* Organized table of some devices: http://www.blutecsys.com/model-selector/
