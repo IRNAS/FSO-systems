@@ -289,5 +289,18 @@ This review should list as many manufacturers and technical charasterictis of th
  * Cost: ?
  * Remarks: 
 
+###  iRedStar 1Gbps
+ * Website:  http://jv-shop.eu/index.php?route=product/product&path=20&product_id=88
+ * Developed by: [JV Labs](http://www.jv-labs.eu/]
+ * Throughput: 1 Gbpos
+ * Distance: up to 400m (700m when tracked)
+ * Wavelength: 850 nm
+ * Beam divergence: 1mrad
+ * Transmit power:  40mW Class 1M according to EN 60825-12
+ * Aperture: 90mm
+ * Motorized alignment and auto-tracking: no/yes
+ * Cost: ?
+ * Remarks: 
+
 # Other known resources
 * Organized table of some devices: http://www.blutecsys.com/model-selector/
