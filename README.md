@@ -346,7 +346,6 @@ This review should list as many manufacturers and technical charasterictis of th
  * Cost: ?
  * Remarks:
 
-
 ### AOptix
   * Website:  
   * Developed by: 
@@ -377,6 +376,21 @@ This review should list as many manufacturers and technical charasterictis of th
   * Laser class: 1M
   * RF backup: Yes
   * Remarks:
+
+### Trimble Overview
+  * Website: https://www.trimbledirect.com/
+  * Developed by: [](]
+  * Throughput:  100 Mbps…3 Gbps
+  * Distance: < 1.0 km…5.0 km
+  * Wavelength: ?
+  * Beam divergence:
+  * Transmit power:  
+  * Aperture:
+  * Motorized alignment and auto-tracking: Some models yes
+  * Cost: $2,947…$28,850
+  * Laser class:
+  * RF backup:
+  * Remarks:https://www.blutecsys.com/model-selector/
 
 ### MRV
   * Website: https://www.mrvfso.com/
@@ -467,21 +481,6 @@ This review should list as many manufacturers and technical charasterictis of th
   * Laser class: 1M
   * RF backup: Yes
   * Remarks:
-
-### Trimble Overview
-  * Website: https://www.trimbledirect.com/
-  * Developed by: [](]
-  * Throughput:  100 Mbps…3 Gbps
-  * Distance: < 1.0 km…5.0 km
-  * Wavelength: ?
-  * Beam divergence:
-  * Transmit power:  
-  * Aperture:
-  * Motorized alignment and auto-tracking: Some models yes
-  * Cost: $2,947…$28,850
-  * Laser class:
-  * RF backup:
-  * Remarks:https://www.blutecsys.com/model-selector/
 
 
 # Other known resources
