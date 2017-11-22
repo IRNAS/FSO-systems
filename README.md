@@ -13,15 +13,27 @@ There is a reasonabely large number of free resources available online regarding
  * [Book chapter: Free Space Optical Communications — Theory and Practices](http://www.intechopen.com/books/contemporary-issues-in-wireless-communications/free-space-optical-communications-theory-and-practices)
  * [Free-Space Optical Communications at JPL/NASA](http://opticalcomm.jpl.nasa.gov/PAPERS/REVIEW/overview.pdf)
  * [Review of free-space optical communications with diverging beam](http://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1570&context=etds)
- 
+
 Resources from various equipment manufacturers:
  * [CableFree: Introduction to Free Space Optics](http://www.cablefree.net/wirelesstechnology/free-space-optics/)
 
 ## Wireless optical system review criterion
 This review should list as many manufacturers and technical charasterictis of their products in an organized manner and collect publicised information about their systems and advertised affect of the free-space channel on the wireless optical link.
 
-### KORUZA 1.0
+### KORUZA Pro
  * Website: http://koruza.net
+ * Developed by: [Luka Mustafa and Institute IRNAS Race](http://irnas.eu)
+ * Throughput: 1/10 Gbps  @ 100 dB/km attenuation
+ * Distance: 100-200m
+ * Wavelength: 1300nm and 1500nm laser
+ * Beam divergence: 0.005 mrad
+ * Transmit power: 1mW
+ * Motorized alignment and auto-tracking: yes
+ * Cost: 1450 EUR
+ * Remarks: Open source open hardware
+
+### KORUZA 1.0
+ * Website: http://scientific.koruza.net
  * Developed by: [Luka Mustafa and Institute IRNAS Race](http://irnas.eu)
  * Throughput: 1/10 Gbps  @ 100 dB/km attenuation
  * Distance: 100-200m
@@ -43,7 +55,7 @@ This review should list as many manufacturers and technical charasterictis of th
  * Motorized alignment and auto-tracking: no
  * Cost: ?
  * Remarks: Pioneering open hardware
- 
+
 ### PAV link
  * Website:  http://www.pavdata.com/
  * Developed by: [PW Data Group Ltd ](http://www.pwdatagroup.com/)
@@ -55,7 +67,22 @@ This review should list as many manufacturers and technical charasterictis of th
  * Motorized alignment and auto-tracking: yes
  * Cost: ?
  * Remarks:
- 
+
+### LightPointe Overview
+ * Website:  http://www.lightpointe.com/
+ * Developed by: [Lightpointe](http://www.lightpointe.com)
+ * Throughput: 1000…1250 Mbps
+ * Distance: 1100…2800 m
+ * Wavelength: 850 nm
+ * Beam divergence:
+ * Transmit power:  
+ * Aperture:
+ * Motorized alignment and auto-tracking:
+ * Cost: € 6.900…€ 17.900
+ * Laser class: 1M
+ * RF backup: Yes
+ * Remarks:
+
 ###  AIREBRIDGE SX
  * Website:  http://www.lightpointe.com/airebridge-sx.html
  * Developed by: [Lightpointe](http://www.lightpointe.com)
@@ -67,7 +94,7 @@ This review should list as many manufacturers and technical charasterictis of th
  * Motorized alignment and auto-tracking: no
  * Cost: ?
  * Remarks: Hybrid upgrade possible
- 
+
 ###  AIREBRIDGE LX
  * Website:  http://www.lightpointe.com/airebridge-sx.html
  * Developed by: [Lightpointe](http://www.lightpointe.com)
@@ -79,7 +106,22 @@ This review should list as many manufacturers and technical charasterictis of th
  * Motorized alignment and auto-tracking: yes
  * Cost: ?
  * Remarks: Hybrid upgrade possible
- 
+
+### fSONA Overview
+ * Website: ttp://www.fsona.com/  
+ * Developed by: [fSONA Networks Corp](http://www.fsona.com)
+ * Throughput: 155…2500 Mbps
+ * Distance: 500…5400 m
+ * Wavelength: 850 nm
+ * Beam divergence:
+ * Transmit power:  
+ * Aperture:
+ * Motorized alignment and auto-tracking:
+ * Cost: € 10.000…€ 29.000
+ * Laser class: 1M
+ * RF backup: No
+ * Remarks:
+
 ###  SONAbeam® 155-E
  * Website:  http://www.fsona.com/product.php?sec=155e
  * Developed by: [fSONA Networks Corp](http://www.fsona.com)
@@ -91,7 +133,7 @@ This review should list as many manufacturers and technical charasterictis of th
  * Aperture: 10cm
  * Motorized alignment and auto-tracking: no
  * Cost: ?
- * Remarks: 
+ * Remarks:
 
 ###  SONAbeam 155-E
  * Website:  http://www.fsona.com/product.php?sec=155m
@@ -104,8 +146,8 @@ This review should list as many manufacturers and technical charasterictis of th
  * Aperture: 20cm
  * Motorized alignment and auto-tracking: no
  * Cost: ?
- * Remarks: 
- 
+ * Remarks:
+
 
 ###  SONAbeam 1250-E
  * Website:  http://www.fsona.com/product.php?sec=1250e
@@ -118,7 +160,7 @@ This review should list as many manufacturers and technical charasterictis of th
  * Aperture: 10cm
  * Motorized alignment and auto-tracking: no
  * Cost: ?
- * Remarks: 
+ * Remarks:
 
 ###  SONAbeam 1250-M
  * Website:  http://www.fsona.com/product.php?sec=1250m
@@ -131,20 +173,7 @@ This review should list as many manufacturers and technical charasterictis of th
  * Aperture: 20cm
  * Motorized alignment and auto-tracking: no
  * Cost: ?
- * Remarks: 
-
-###  SONAbeam 1250-M
- * Website:  http://www.fsona.com/product.php?sec=1250m
- * Developed by: [fSONA Networks Corp](http://www.fsona.com)
- * Throughput: 1.25 Gbps
- * Distance: up to 4.8km @ 3 dB/km attenuation
- * Wavelength: 4x 1550 nm
- * Beam divergence: ?
- * Transmit power: 4x 160mW
- * Aperture: 20cm
- * Motorized alignment and auto-tracking: no
- * Cost: ?
- * Remarks: 
+ * Remarks:
 
 ###  SONAbeam 1250-Z
  * Website:  http://www.fsona.com/product.php?sec=1250z
@@ -157,8 +186,8 @@ This review should list as many manufacturers and technical charasterictis of th
  * Aperture: 5cm
  * Motorized alignment and auto-tracking: no
  * Cost: ?
- * Remarks: 
- 
+ * Remarks:
+
 ###  SONAbeam 2500-E
  * Website:  http://www.fsona.com/product.php?sec=2500e
  * Developed by: [fSONA Networks Corp](http://www.fsona.com)
@@ -170,7 +199,7 @@ This review should list as many manufacturers and technical charasterictis of th
  * Aperture: 10cm
  * Motorized alignment and auto-tracking: no
  * Cost: ?
- * Remarks: 
+ * Remarks:
 
 ###  SONAbeam 2500-Z
  * Website:  http://www.fsona.com/product.php?sec=2500z
@@ -183,7 +212,7 @@ This review should list as many manufacturers and technical charasterictis of th
  * Aperture: 5cm
  * Motorized alignment and auto-tracking: no
  * Cost: ?
- * Remarks: 
+ * Remarks:
 
 ###  Artolink M1-FE-L
  * Website:  http://artolink.com/page/products/free_space_optics_Artolink_100Mbps/
@@ -197,7 +226,7 @@ This review should list as many manufacturers and technical charasterictis of th
  * Motorized alignment and auto-tracking: yes
  * Cost: ?
  * Remarks: longer range with RF backup
- * 
+ *
 ###  Artolink M1-GE
  * Website:  http://artolink.com/page/products/free_space_optics_Artolink_1Gbps/
  * Developed by: [Mostcom](http://www.moctkom.ru)
@@ -210,8 +239,8 @@ This review should list as many manufacturers and technical charasterictis of th
  * Motorized alignment and auto-tracking: yes
  * Cost: ?
  * Remarks: longer range with RF backup
- 
- ###  Artolink M1-GE-L
+
+###  Artolink M1-GE-L
  * Website:  http://artolink.com/page/products/free_space_optics_Artolink_1Gbps/
  * Developed by: [Mostcom](http://www.moctkom.ru)
  * Throughput: 1.25 Gbps
@@ -223,7 +252,7 @@ This review should list as many manufacturers and technical charasterictis of th
  * Motorized alignment and auto-tracking: yes
  * Cost: ?
  * Remarks: longer range with RF backup
-  
+
 ###  Artolink M1-GE-L
  * Website:  http://artolink.com/page/products/free_space_optics_Artolink_10Gbps/
  * Developed by: [Mostcom](http://www.moctkom.ru)
@@ -239,7 +268,7 @@ This review should list as many manufacturers and technical charasterictis of th
 
 ###  LaserFire
  * Website:  http://www.spacephotonics.com/Free_Space_Optics_Wireless_Communication.php
- * Developed by: [Spacephotonics](http://www.spacephotonics.com/]
+ * Developed by: [Spacephotonics](http://www.spacephotonics.com/)
  * Throughput: 1/10 Gbps
  * Distance: up to 2.4km
  * Wavelength: 1550nm
@@ -250,9 +279,24 @@ This review should list as many manufacturers and technical charasterictis of th
  * Cost: ?
  * Remarks: wide angle fast tracking
 
+### CableFree Overview
+ * Website: http://www.cablefree.net/cablefree-free-space-optics-fso/
+ * Developed by: [Wireless Excellence Limited](http://www.wirelessexcellence.com/)
+ * Throughput: 100…1.500 Mbps
+ * Distance: 200…4000 m
+ * Wavelength: 780/980 nm
+ * Beam divergence:
+ * Transmit power:  
+ * Aperture:
+ * Motorized alignment and auto-tracking:
+ * Cost: € 5.500…€ 23.000
+ * Laser class: 1M
+ * RF backup: Yes
+ * Remarks:
+
 ###  CableFree Gigabit
  * Website:  http://www.cablefree.net/cablefree-free-space-optics-fso/
- * Developed by: [Wireless Excellence Limited](http://www.wirelessexcellence.com/]
+ * Developed by: [Wireless Excellence Limited](http://www.wirelessexcellence.com/)
  * Throughput: 1.5 Gbps
  * Distance: up to 2km
  * Wavelength: 780nm
@@ -261,11 +305,11 @@ This review should list as many manufacturers and technical charasterictis of th
  * Aperture: ?
  * Motorized alignment and auto-tracking: no
  * Cost: ?
- * Remarks: 
+ * Remarks:
 
 ###  CableFree Access
  * Website:  http://www.cablefree.net/cablefree-free-space-optics-fso/
- * Developed by: [Wireless Excellence Limited](http://www.wirelessexcellence.com/]
+ * Developed by: [Wireless Excellence Limited](http://www.wirelessexcellence.com/)
  * Throughput: 155 Mbps
  * Distance: up to 4km
  * Wavelength: 980 nm
@@ -278,7 +322,7 @@ This review should list as many manufacturers and technical charasterictis of th
 
 ###  CableFree 622
  * Website:  http://www.cablefree.net/cablefree-free-space-optics-fso/
- * Developed by: [Wireless Excellence Limited](http://www.wirelessexcellence.com/]
+ * Developed by: [Wireless Excellence Limited](http://www.wirelessexcellence.com/)
  * Throughput: 622 Mbps
  * Distance: up to 1.5km
  * Wavelength: 780 nm
@@ -287,11 +331,11 @@ This review should list as many manufacturers and technical charasterictis of th
  * Aperture: ?
  * Motorized alignment and auto-tracking: no
  * Cost: ?
- * Remarks: 
+ * Remarks:
 
 ###  iRedStar 1Gbps
  * Website:  http://jv-shop.eu/index.php?route=product/product&path=20&product_id=88
- * Developed by: [JV Labs](http://www.jv-labs.eu/]
+ * Developed by: [JV Labs](http://www.jv-labs.eu/)
  * Throughput: 1 Gbpos
  * Distance: up to 400m (700m when tracked)
  * Wavelength: 850 nm
@@ -300,7 +344,145 @@ This review should list as many manufacturers and technical charasterictis of th
  * Aperture: 90mm
  * Motorized alignment and auto-tracking: no/yes
  * Cost: ?
- * Remarks: 
+ * Remarks:
+
+
+### AOptix
+  * Website:  
+  * Developed by: [](]
+  * Throughput: 2 Gbps
+  * Distance: 10000 m
+  * Wavelength: 1550 nm
+  * Beam divergence:
+  * Transmit power:  
+  * Aperture:
+  * Motorized alignment and auto-tracking:
+  * Cost: € 49.000…€ 57.000
+  * Laser class: 1
+  * RF backup: Yes
+  * Remarks: Closed in 2016 - http://www.lightreading.com/mobile/backhaul/exclusive-its-lights-out-for-aoptix/d/d-id/720915
+
+
+### CBL
+  * Website: http://www.cbl.de/101-0-Richtfunk.html?clang=1  
+  * Developed by: [CBL - Communication by light](http://www.cbl.de/16-1-20-years-of-FSO.html)
+  * Throughput: 1000 Mbps
+  * Distance: 800 m
+  * Wavelength: 850 nm
+  * Beam divergence:
+  * Transmit power:  
+  * Aperture:
+  * Motorized alignment and auto-tracking:
+  * Cost: € 8.000…€ 20.000
+  * Laser class: 1M
+  * RF backup: Yes
+  * Remarks:
+
+### MRV
+  * Website: https://www.mrvfso.com/
+  * Developed by: []()
+  * Throughput: 100…1500 Mbps
+  * Distance: 860…5200 m
+  * Wavelength: 830…860 nm
+  * Beam divergence:
+  * Transmit power:  
+  * Aperture:
+  * Motorized alignment and auto-tracking:
+  * Cost: n.a.
+  * Laser class: 1M
+  * RF backup: No
+  * Remarks:
+
+### Northern Storm Overview
+  * Website: https://www.northernstormdirect.com/
+  * Developed by: []()
+  * Throughput: 1.25…30 Gbps
+  * Distance: 1.0…5.0 km
+  * Wavelength: 1550 nm
+  * Beam divergence:
+  * Transmit power:  
+  * Aperture:
+  * Motorized alignment and auto-tracking:
+  * Cost: € 16.000…€ 33.500
+  * Laser class: 1M
+  * RF backup: Yes
+  * Remarks:
+
+### Optelix Wireless
+  * Website:  ??
+  * Developed by: []()
+  * Throughput: 1…1.25 Gbps
+  * Distance: 600…1500 m
+  * Wavelength: 850 nm
+  * Beam divergence:
+  * Transmit power:  
+  * Aperture:
+  * Motorized alignment and auto-tracking:
+  * Cost: € 9.500…€ 12.000
+  * Laser class: 1M
+  * RF backup: No
+  * Remarks: Closed?
+
+### Plaintree Systems
+  * Website: http://freespaceoptics.ca/   
+  * Developed by: [Plaintree Systems Inc](http://www.plaintree.com/about.html)
+  * Throughput: 100…155 Mbps
+  * Distance: 500…2000 m
+  * Wavelength: 800…900 nm
+  * Beam divergence:
+  * Transmit power:  
+  * Aperture:
+  * Motorized alignment and auto-tracking:
+  * Cost: n.a.
+  * Laser class: 1
+  * RF backup: No
+  * Remarks:
+
+### Polewall
+  * Website: http://www.polewall.com/
+  * Developed by: [Polewall](http://www.polewall.com/polewall-team/)
+  * Throughput: 1000 Mbps
+  * Distance: 250 m
+  * Wavelength: n.a.
+  * Beam divergence:
+  * Transmit power:  
+  * Aperture:
+  * Motorized alignment and auto-tracking:
+  * Cost: € 2.000…€ 2.500
+  * Laser class: 1M
+  * RF backup: No
+  * Remarks:
+
+### SkyFiber
+  * Website:  http://www.owbnetworks.com/owb-fso
+  * Developed by: [OWB Networks](http://www.owbnetworks.com/)
+  * Throughput: 1.25 Gbps
+  * Distance: 1600 m
+  * Wavelength: 860 nm
+  * Beam divergence:
+  * Transmit power:  
+  * Aperture:
+  * Motorized alignment and auto-tracking:
+  * Cost: € 14.900
+  * Laser class: 1M
+  * RF backup: Yes
+  * Remarks:
+
+### Trimble Overview
+  * Website: https://www.trimbledirect.com/
+  * Developed by: [](]
+  * Throughput:  100 Mbps…3 Gbps
+  * Distance: < 1.0 km…5.0 km
+  * Wavelength: ?
+  * Beam divergence:
+  * Transmit power:  
+  * Aperture:
+  * Motorized alignment and auto-tracking: Some models yes
+  * Cost: $2,947…$28,850
+  * Laser class:
+  * RF backup:
+  * Remarks:https://www.blutecsys.com/model-selector/
+
 
 # Other known resources
 * Organized table of some devices: http://www.blutecsys.com/model-selector/
@@ -321,6 +503,5 @@ All our websites and additional documentation are licensed under [Creative Commo
 
 What this means is that you can use hardware, firmware, software and documentation without paying a royalty and knowing that you'll be able to use your version forever. You are also free to make changes but if you share these changes then you have to do so on the same conditions that you enjoy.
 
-Koruza, GoodEnoughCNC and IRNAS are all names and marks of Institut IRNAS Rače. 
+Koruza, GoodEnoughCNC and IRNAS are all names and marks of Institut IRNAS Rače.
 You may use these names and terms only to attribute the appropriate entity as required by the Open Licences referred to above. You may not use them in any other way and in particular you may not use them to imply endorsement or authorization of any hardware that you design, make or sell.
-
