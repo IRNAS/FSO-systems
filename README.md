@@ -349,7 +349,7 @@ This review should list as many manufacturers and technical charasterictis of th
 
 ### AOptix
   * Website:  
-  * Developed by: [](]
+  * Developed by: 
   * Throughput: 2 Gbps
   * Distance: 10000 m
   * Wavelength: 1550 nm
