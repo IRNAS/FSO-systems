@@ -405,7 +405,7 @@ This review should list as many manufacturers and technical charasterictis of th
   * Cost: n.a.
   * Laser class: 1M
   * RF backup: No
-  * Remarks:
+  * Remarks: Not longer manufacturing - https://www.mrvfso.com/mrvsupport/
 
 ### Northern Storm Overview
   * Website: https://www.northernstormdirect.com/
