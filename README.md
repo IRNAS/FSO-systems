@@ -56,18 +56,6 @@ This review should list as many manufacturers and technical charasterictis of th
  * Cost: ?
  * Remarks: Pioneering open hardware
 
-### PAV link
- * Website:  http://www.pavdata.com/
- * Developed by: [PW Data Group Ltd ](http://www.pwdatagroup.com/)
- * Throughput: 100 Mbps
- * Distance: up to 5km
- * Wavelength: ?
- * Beam divergence: 2?
- * Transmit power: ?
- * Motorized alignment and auto-tracking: yes
- * Cost: ?
- * Remarks:
-
 ### LightPointe Overview
  * Website:  http://www.lightpointe.com/
  * Developed by: [Lightpointe](http://www.lightpointe.com)
@@ -346,22 +334,6 @@ This review should list as many manufacturers and technical charasterictis of th
  * Cost: ?
  * Remarks:
 
-### AOptix
-  * Website:  
-  * Developed by: 
-  * Throughput: 2 Gbps
-  * Distance: 10000 m
-  * Wavelength: 1550 nm
-  * Beam divergence:
-  * Transmit power:  
-  * Aperture:
-  * Motorized alignment and auto-tracking:
-  * Cost: € 49.000…€ 57.000
-  * Laser class: 1
-  * RF backup: Yes
-  * Remarks: Closed in 2016 - http://www.lightreading.com/mobile/backhaul/exclusive-its-lights-out-for-aoptix/d/d-id/720915
-
-
 ### CBL
   * Website: http://www.cbl.de/101-0-Richtfunk.html?clang=1  
   * Developed by: [CBL - Communication by light](http://www.cbl.de/16-1-20-years-of-FSO.html)
@@ -392,21 +364,6 @@ This review should list as many manufacturers and technical charasterictis of th
   * RF backup:
   * Remarks:https://www.blutecsys.com/model-selector/
 
-### MRV
-  * Website: https://www.mrvfso.com/
-  * Developed by: []()
-  * Throughput: 100…1500 Mbps
-  * Distance: 860…5200 m
-  * Wavelength: 830…860 nm
-  * Beam divergence:
-  * Transmit power:  
-  * Aperture:
-  * Motorized alignment and auto-tracking:
-  * Cost: n.a.
-  * Laser class: 1M
-  * RF backup: No
-  * Remarks: Not longer manufacturing - https://www.mrvfso.com/mrvsupport/
-
 ### Northern Storm Overview
   * Website: https://www.northernstormdirect.com/
   * Developed by: []()
@@ -420,7 +377,7 @@ This review should list as many manufacturers and technical charasterictis of th
   * Cost: € 16.000…€ 33.500
   * Laser class: 1M
   * RF backup: Yes
-  * Remarks:
+  * Remarks: OEM of Artolink
 
 ### Optelix Wireless
   * Website:  ??
@@ -482,6 +439,64 @@ This review should list as many manufacturers and technical charasterictis of th
   * RF backup: Yes
   * Remarks:
 
+### Redline
+  * Website:  http://www.redlinesa.co.za/optical-wireless-broadband/
+  * Developed by: []()
+  * Throughput: 
+  * Distance: 
+  * Wavelength: 
+  * Beam divergence:
+  * Transmit power:  
+  * Aperture:
+  * Motorized alignment and auto-tracking:
+  * Cost: 
+  * Laser class: 
+  * RF backup: 
+  * Remarks: Also marketed as ComNet http://www.shopblt.com/item/comnet-free-space-optic-1gbps-high/927u_fso1gsr.html#Availability
+
+# No longer in business
+
+### MRV
+  * Website: https://www.mrvfso.com/
+  * Developed by: []()
+  * Throughput: 100…1500 Mbps
+  * Distance: 860…5200 m
+  * Wavelength: 830…860 nm
+  * Beam divergence:
+  * Transmit power:  
+  * Aperture:
+  * Motorized alignment and auto-tracking:
+  * Cost: n.a.
+  * Laser class: 1M
+  * RF backup: No
+  * Remarks: Not longer manufacturing - https://www.mrvfso.com/mrvsupport/
+  
+ ### PAV link
+ * Website:  http://www.pavdata.com/
+ * Developed by: [PW Data Group Ltd ](http://www.pwdatagroup.com/)
+ * Throughput: 100 Mbps
+ * Distance: up to 5km
+ * Wavelength: ?
+ * Beam divergence: 2?
+ * Transmit power: ?
+ * Motorized alignment and auto-tracking: yes
+ * Cost: ?
+ * Remarks: Closed
+ 
+### AOptix
+  * Website:  
+  * Developed by: 
+  * Throughput: 2 Gbps
+  * Distance: 10000 m
+  * Wavelength: 1550 nm
+  * Beam divergence:
+  * Transmit power:  
+  * Aperture:
+  * Motorized alignment and auto-tracking:
+  * Cost: € 49.000…€ 57.000
+  * Laser class: 1
+  * RF backup: Yes
+  * Remarks: Closed in 2016 - http://www.lightreading.com/mobile/backhaul/exclusive-its-lights-out-for-aoptix/d/d-id/720915
 
 # Other known resources
 * Organized table of some devices: http://www.blutecsys.com/model-selector/
